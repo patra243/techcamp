@@ -10,6 +10,6 @@ public class Lesson11 {
         Inv.subtract(84,56);
 
         //Two classes == Areas->circle,area square, equilateral triangle
-        //Volumes == ->cylinder, sphere, cone 
+        //Volumes == ->cylinder, sphere, cone
     }
 }

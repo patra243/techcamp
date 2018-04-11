@@ -33,7 +33,7 @@ public class Lesson4 {
         }
         else if(result>=35 && result<40)
         {
-            System.out.println("Obese class 2(Severely obese)");
+            System.out.println("Obese class 2.0(Severely obese ll)");
         }
         else
         {
